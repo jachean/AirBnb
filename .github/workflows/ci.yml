@@ -8,16 +8,22 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: frontend  
+
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
 
-      - name: Navigate to Frontend and Install Dependencies
-        run: |
-          cd frontend
-          npm install
+      - name: Debug - List Files
+        run: ls -R  
+
+      - name: Install Dependencies
+        run: npm install  
 
       - name: Run Build
-        run: |
-          cd frontend
-          npm run build
+        run: npm run build  
+
+      - name: Verify Build Output
+        run: ls -R dist  

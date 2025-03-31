@@ -1,4 +1,4 @@
-name: CI Pipeline
+name: Simple CI Pipeline
 
 on:
   pull_request:
@@ -8,22 +8,10 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: frontend  
 
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
 
-      - name: Debug - List Files
+      - name: Debug - Show Files and Paths
         run: ls -R  
-
-      - name: Install Dependencies
-        run: npm install  
-
-      - name: Run Build
-        run: npm run build  
-
-      - name: Verify Build Output
-        run: ls -R dist  

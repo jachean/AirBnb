@@ -1,4 +1,4 @@
-﻿namespace AirBnbWAD.Models
+﻿namespace AirBnb.Models
 {
 
     public class Review

@@ -1,6 +1,7 @@
+using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 using AirBnb.Models;
-using Microsoft.AspNetCore.Mvc;
+using System.IO;
 
 namespace AirBnb.Controllers
 {
@@ -13,14 +14,11 @@ namespace AirBnb.Controllers
             _logger = logger;
         }
 
+        // Serve the Vue frontend
         public IActionResult Index()
         {
-            return View();
-        }
-
-        public IActionResult Privacy()
-        {
-            return View();
+            var file = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "index.html");
+            return PhysicalFile(file, "text/html");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

@@ -1,0 +1,473 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\AirBnb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AirBnb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\AboutView-B-qpLpSA.js",
+      "PackagePath": "staticwebassets\\assets\\AboutView-B-qpLpSA.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\AboutView-CG3kswTX.js",
+      "PackagePath": "staticwebassets\\assets\\AboutView-CG3kswTX.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\AboutView-CdtF9Qwq.js",
+      "PackagePath": "staticwebassets\\assets\\AboutView-CdtF9Qwq.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\AboutView-D__cbRDE.css",
+      "PackagePath": "staticwebassets\\assets\\AboutView-D__cbRDE.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\AboutView-szLCi-N9.js",
+      "PackagePath": "staticwebassets\\assets\\AboutView-szLCi-N9.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\ContactView-BhR-X7Z4.js",
+      "PackagePath": "staticwebassets\\assets\\ContactView-BhR-X7Z4.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\ContactView-BnBythWk.js",
+      "PackagePath": "staticwebassets\\assets\\ContactView-BnBythWk.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\ContactView-Bv0Y7tto.css",
+      "PackagePath": "staticwebassets\\assets\\ContactView-Bv0Y7tto.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\ContactView-C-cZdQFH.css",
+      "PackagePath": "staticwebassets\\assets\\ContactView-C-cZdQFH.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\ContactView-CUGrO9aU.js",
+      "PackagePath": "staticwebassets\\assets\\ContactView-CUGrO9aU.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\ContactView-Dwyu9hch.js",
+      "PackagePath": "staticwebassets\\assets\\ContactView-Dwyu9hch.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\DetailsView-Bd5r51Yt.js",
+      "PackagePath": "staticwebassets\\assets\\DetailsView-Bd5r51Yt.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\DetailsView-BiHbwIjT.css",
+      "PackagePath": "staticwebassets\\assets\\DetailsView-BiHbwIjT.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\DetailsView-CzU350CB.js",
+      "PackagePath": "staticwebassets\\assets\\DetailsView-CzU350CB.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\DetailsView-DRJu1s1T.js",
+      "PackagePath": "staticwebassets\\assets\\DetailsView-DRJu1s1T.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\DetailsView-wEtPhq_i.js",
+      "PackagePath": "staticwebassets\\assets\\DetailsView-wEtPhq_i.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\HomeView-BgHqv5BK.js",
+      "PackagePath": "staticwebassets\\assets\\HomeView-BgHqv5BK.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\HomeView-ClOCG6py.js",
+      "PackagePath": "staticwebassets\\assets\\HomeView-ClOCG6py.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\HomeView-Cs-wE7gG.css",
+      "PackagePath": "staticwebassets\\assets\\HomeView-Cs-wE7gG.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\HomeView-j3XpV2I6.js",
+      "PackagePath": "staticwebassets\\assets\\HomeView-j3XpV2I6.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\HomeView-nyuNAcZt.js",
+      "PackagePath": "staticwebassets\\assets\\HomeView-nyuNAcZt.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\ListingsView--7mzpvG1.css",
+      "PackagePath": "staticwebassets\\assets\\ListingsView--7mzpvG1.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\ListingsView-Bt5SSHF6.js",
+      "PackagePath": "staticwebassets\\assets\\ListingsView-Bt5SSHF6.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\ListingsView-C2nTuefy.js",
+      "PackagePath": "staticwebassets\\assets\\ListingsView-C2nTuefy.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\ListingsView-S5OZnQIi.js",
+      "PackagePath": "staticwebassets\\assets\\ListingsView-S5OZnQIi.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\ListingsView-oVzI4guO.js",
+      "PackagePath": "staticwebassets\\assets\\ListingsView-oVzI4guO.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\LoginView-BnObQxqd.js",
+      "PackagePath": "staticwebassets\\assets\\LoginView-BnObQxqd.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\LoginView-C_Vouvju.js",
+      "PackagePath": "staticwebassets\\assets\\LoginView-C_Vouvju.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\LoginView-CjNJBNZm.js",
+      "PackagePath": "staticwebassets\\assets\\LoginView-CjNJBNZm.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\LoginView-DP8hPsc6.css",
+      "PackagePath": "staticwebassets\\assets\\LoginView-DP8hPsc6.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\LoginView-Dz8etbLY.js",
+      "PackagePath": "staticwebassets\\assets\\LoginView-Dz8etbLY.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\PrivacyView-BFpv_pfn.js",
+      "PackagePath": "staticwebassets\\assets\\PrivacyView-BFpv_pfn.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\PrivacyView-BxgLXtpm.js",
+      "PackagePath": "staticwebassets\\assets\\PrivacyView-BxgLXtpm.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\PrivacyView-BzXTPQyR.js",
+      "PackagePath": "staticwebassets\\assets\\PrivacyView-BzXTPQyR.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\PrivacyView-Dk9yecMq.css",
+      "PackagePath": "staticwebassets\\assets\\PrivacyView-Dk9yecMq.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\PrivacyView-tXbJkJOW.js",
+      "PackagePath": "staticwebassets\\assets\\PrivacyView-tXbJkJOW.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\RegisterView-BCaAgdJe.js",
+      "PackagePath": "staticwebassets\\assets\\RegisterView-BCaAgdJe.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\RegisterView-BXf17n0l.js",
+      "PackagePath": "staticwebassets\\assets\\RegisterView-BXf17n0l.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\RegisterView-Bf-2cMrx.js",
+      "PackagePath": "staticwebassets\\assets\\RegisterView-Bf-2cMrx.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\RegisterView-CRQyxPmF.css",
+      "PackagePath": "staticwebassets\\assets\\RegisterView-CRQyxPmF.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\RegisterView-rg8GvPo6.js",
+      "PackagePath": "staticwebassets\\assets\\RegisterView-rg8GvPo6.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\index-1Loh7xV8.js",
+      "PackagePath": "staticwebassets\\assets\\index-1Loh7xV8.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\index-CIQI2whN.css",
+      "PackagePath": "staticwebassets\\assets\\index-CIQI2whN.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\index-D0uSbAFA.js",
+      "PackagePath": "staticwebassets\\assets\\index-D0uSbAFA.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\index-DBySQA4p.js",
+      "PackagePath": "staticwebassets\\assets\\index-DBySQA4p.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\index-DsaNktBP.css",
+      "PackagePath": "staticwebassets\\assets\\index-DsaNktBP.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\index-Eu-01BUA.js",
+      "PackagePath": "staticwebassets\\assets\\index-Eu-01BUA.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\assets\\index-RKAwRA5A.css",
+      "PackagePath": "staticwebassets\\assets\\index-RKAwRA5A.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\images\\cozy_beach_house.jpg",
+      "PackagePath": "staticwebassets\\images\\cozy_beach_house.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\images\\mountain_cabin.jpg",
+      "PackagePath": "staticwebassets\\images\\mountain_cabin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\images\\urban_loft.jpg",
+      "PackagePath": "staticwebassets\\images\\urban_loft.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mihai\\AirBnb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AirBnb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.AirBnb.props",
+      "PackagePath": "build\\AirBnb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.AirBnb.props",
+      "PackagePath": "buildMultiTargeting\\AirBnb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.AirBnb.props",
+      "PackagePath": "buildTransitive\\AirBnb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

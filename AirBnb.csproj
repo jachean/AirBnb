@@ -1,13 +1,128 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
+	  <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
+	  <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <TargetFramework>net8.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.4" />
+    <Content Remove="wwwroot\assets\AboutView-B-qpLpSA.js" />
+    <Content Remove="wwwroot\assets\AboutView-CdtF9Qwq.js" />
+    <Content Remove="wwwroot\assets\AboutView-CG3kswTX.js" />
+    <Content Remove="wwwroot\assets\AboutView-D__cbRDE.css" />
+    <Content Remove="wwwroot\assets\AboutView-szLCi-N9.js" />
+    <Content Remove="wwwroot\assets\ContactView-BhR-X7Z4.js" />
+    <Content Remove="wwwroot\assets\ContactView-BnBythWk.js" />
+    <Content Remove="wwwroot\assets\ContactView-Bv0Y7tto.css" />
+    <Content Remove="wwwroot\assets\ContactView-C-cZdQFH.css" />
+    <Content Remove="wwwroot\assets\ContactView-CUGrO9aU.js" />
+    <Content Remove="wwwroot\assets\ContactView-Dwyu9hch.js" />
+    <Content Remove="wwwroot\assets\DetailsView-Bd5r51Yt.js" />
+    <Content Remove="wwwroot\assets\DetailsView-BiHbwIjT.css" />
+    <Content Remove="wwwroot\assets\DetailsView-CzU350CB.js" />
+    <Content Remove="wwwroot\assets\DetailsView-DRJu1s1T.js" />
+    <Content Remove="wwwroot\assets\DetailsView-wEtPhq_i.js" />
+    <Content Remove="wwwroot\assets\HomeView-BgHqv5BK.js" />
+    <Content Remove="wwwroot\assets\HomeView-ClOCG6py.js" />
+    <Content Remove="wwwroot\assets\HomeView-Cs-wE7gG.css" />
+    <Content Remove="wwwroot\assets\HomeView-j3XpV2I6.js" />
+    <Content Remove="wwwroot\assets\HomeView-nyuNAcZt.js" />
+    <Content Remove="wwwroot\assets\index-1Loh7xV8.js" />
+    <Content Remove="wwwroot\assets\index-CIQI2whN.css" />
+    <Content Remove="wwwroot\assets\index-D0uSbAFA.js" />
+    <Content Remove="wwwroot\assets\index-DBySQA4p.js" />
+    <Content Remove="wwwroot\assets\index-DsaNktBP.css" />
+    <Content Remove="wwwroot\assets\index-Eu-01BUA.js" />
+    <Content Remove="wwwroot\assets\index-RKAwRA5A.css" />
+    <Content Remove="wwwroot\assets\ListingsView--7mzpvG1.css" />
+    <Content Remove="wwwroot\assets\ListingsView-Bt5SSHF6.js" />
+    <Content Remove="wwwroot\assets\ListingsView-C2nTuefy.js" />
+    <Content Remove="wwwroot\assets\ListingsView-oVzI4guO.js" />
+    <Content Remove="wwwroot\assets\ListingsView-S5OZnQIi.js" />
+    <Content Remove="wwwroot\assets\LoginView-BnObQxqd.js" />
+    <Content Remove="wwwroot\assets\LoginView-CjNJBNZm.js" />
+    <Content Remove="wwwroot\assets\LoginView-C_Vouvju.js" />
+    <Content Remove="wwwroot\assets\LoginView-DP8hPsc6.css" />
+    <Content Remove="wwwroot\assets\LoginView-Dz8etbLY.js" />
+    <Content Remove="wwwroot\assets\PrivacyView-BFpv_pfn.js" />
+    <Content Remove="wwwroot\assets\PrivacyView-BxgLXtpm.js" />
+    <Content Remove="wwwroot\assets\PrivacyView-BzXTPQyR.js" />
+    <Content Remove="wwwroot\assets\PrivacyView-Dk9yecMq.css" />
+    <Content Remove="wwwroot\assets\PrivacyView-tXbJkJOW.js" />
+    <Content Remove="wwwroot\assets\RegisterView-BCaAgdJe.js" />
+    <Content Remove="wwwroot\assets\RegisterView-Bf-2cMrx.js" />
+    <Content Remove="wwwroot\assets\RegisterView-BXf17n0l.js" />
+    <Content Remove="wwwroot\assets\RegisterView-CRQyxPmF.css" />
+    <Content Remove="wwwroot\assets\RegisterView-rg8GvPo6.js" />
+    <Content Remove="wwwroot\index.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="frontend\public\images\cozy_beach_house.jpg" />
+    <Content Include="frontend\public\images\mountain_cabin.jpg" />
+    <Content Include="frontend\public\images\urban_loft.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\assets\AboutView-B-qpLpSA.js" />
+    <None Include="wwwroot\assets\AboutView-CdtF9Qwq.js" />
+    <None Include="wwwroot\assets\AboutView-CG3kswTX.js" />
+    <None Include="wwwroot\assets\AboutView-D__cbRDE.css" />
+    <None Include="wwwroot\assets\AboutView-szLCi-N9.js" />
+    <None Include="wwwroot\assets\ContactView-BhR-X7Z4.js" />
+    <None Include="wwwroot\assets\ContactView-BnBythWk.js" />
+    <None Include="wwwroot\assets\ContactView-Bv0Y7tto.css" />
+    <None Include="wwwroot\assets\ContactView-C-cZdQFH.css" />
+    <None Include="wwwroot\assets\ContactView-CUGrO9aU.js" />
+    <None Include="wwwroot\assets\ContactView-Dwyu9hch.js" />
+    <None Include="wwwroot\assets\DetailsView-Bd5r51Yt.js" />
+    <None Include="wwwroot\assets\DetailsView-BiHbwIjT.css" />
+    <None Include="wwwroot\assets\DetailsView-CzU350CB.js" />
+    <None Include="wwwroot\assets\DetailsView-DRJu1s1T.js" />
+    <None Include="wwwroot\assets\DetailsView-wEtPhq_i.js" />
+    <None Include="wwwroot\assets\HomeView-BgHqv5BK.js" />
+    <None Include="wwwroot\assets\HomeView-ClOCG6py.js" />
+    <None Include="wwwroot\assets\HomeView-Cs-wE7gG.css" />
+    <None Include="wwwroot\assets\HomeView-j3XpV2I6.js" />
+    <None Include="wwwroot\assets\HomeView-nyuNAcZt.js" />
+    <None Include="wwwroot\assets\index-1Loh7xV8.js" />
+    <None Include="wwwroot\assets\index-CIQI2whN.css" />
+    <None Include="wwwroot\assets\index-D0uSbAFA.js" />
+    <None Include="wwwroot\assets\index-DBySQA4p.js" />
+    <None Include="wwwroot\assets\index-DsaNktBP.css" />
+    <None Include="wwwroot\assets\index-Eu-01BUA.js" />
+    <None Include="wwwroot\assets\index-RKAwRA5A.css" />
+    <None Include="wwwroot\assets\ListingsView--7mzpvG1.css" />
+    <None Include="wwwroot\assets\ListingsView-Bt5SSHF6.js" />
+    <None Include="wwwroot\assets\ListingsView-C2nTuefy.js" />
+    <None Include="wwwroot\assets\ListingsView-oVzI4guO.js" />
+    <None Include="wwwroot\assets\ListingsView-S5OZnQIi.js" />
+    <None Include="wwwroot\assets\LoginView-BnObQxqd.js" />
+    <None Include="wwwroot\assets\LoginView-CjNJBNZm.js" />
+    <None Include="wwwroot\assets\LoginView-C_Vouvju.js" />
+    <None Include="wwwroot\assets\LoginView-DP8hPsc6.css" />
+    <None Include="wwwroot\assets\LoginView-Dz8etbLY.js" />
+    <None Include="wwwroot\assets\PrivacyView-BFpv_pfn.js" />
+    <None Include="wwwroot\assets\PrivacyView-BxgLXtpm.js" />
+    <None Include="wwwroot\assets\PrivacyView-BzXTPQyR.js" />
+    <None Include="wwwroot\assets\PrivacyView-Dk9yecMq.css" />
+    <None Include="wwwroot\assets\PrivacyView-tXbJkJOW.js" />
+    <None Include="wwwroot\assets\RegisterView-BCaAgdJe.js" />
+    <None Include="wwwroot\assets\RegisterView-Bf-2cMrx.js" />
+    <None Include="wwwroot\assets\RegisterView-BXf17n0l.js" />
+    <None Include="wwwroot\assets\RegisterView-CRQyxPmF.css" />
+    <None Include="wwwroot\assets\RegisterView-rg8GvPo6.js" />
+    <None Include="wwwroot\index.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.5" />
+    <PackageReference Include="MSTest.TestAdapter" Version="3.8.3" />
+    <PackageReference Include="MSTest.TestFramework" Version="3.8.3" />
   </ItemGroup>
 
 </Project>
